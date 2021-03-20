@@ -1,0 +1,9 @@
+people.png
+creatures.png
+clothing.png
+jewelry.png
+weapons.png
+tools.png
+food.png
+misc.png
+map.png
